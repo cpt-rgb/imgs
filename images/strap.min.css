@@ -5,8 +5,8 @@
 .pic {
   display: block;
   max-width: 600px;
-/*   height: 400px;
-  width: 100%; */
+  height: 400px;
+  width: 100%;
     
   background-image: url('https://cpt-rgb.github.io/imgs/images/test.webp');
   background-size: contain;
