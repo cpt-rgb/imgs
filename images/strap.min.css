@@ -3,13 +3,12 @@
 }
 
 .pic {
-  display: block;
-/*   max-width: 600px; */
+  background-image: url('https://cpt-rgb.github.io/imgs/images/test.webp');
   height: 400px;
   width: 100%;
-    
-  background-image: url('https://cpt-rgb.github.io/imgs/images/test.webp');
+  
+  display: block;
   background-size: contain;
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
 }
