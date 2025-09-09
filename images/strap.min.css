@@ -1,10 +1,10 @@
 .cca-instructions {
-/*   display: none; */
+  display: none;
 }
 
 .cca-ins {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/test.webp');
-  height: 400px;
+  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp');
+  height: 600px;
   
   display: block;
   background-size: contain;
@@ -14,11 +14,12 @@
 }
 
 .cca-rev {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/test.webp');
-  height: 400px;
+  background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp');
+  height: 300px;
   
   display: block;
   background-size: contain;
   background-position: left;
   background-repeat: no-repeat;
+/*   margin-bottom: 20px; */
 }
