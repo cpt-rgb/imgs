@@ -3,7 +3,7 @@
 }
 
 .cca-ins {
-/*   background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp'); */
+  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp');
   height: 600px;
   
   display: block;
@@ -14,12 +14,15 @@
 }
 
 .cca-rev {
-/*   background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp'); */
+  background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp');
   height: 300px;
   
   display: block;
   background-size: contain;
   background-position: left;
   background-repeat: no-repeat;
-/*   margin-bottom: 20px; */
 }
+
+
+/* https://cpt-rgb.github.io/imgs/images/ins.webp */
+/* https://cpt-rgb.github.io/imgs/images/rev-1.webp */
