@@ -3,7 +3,7 @@
 }
 
 .cca-ins {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp');
+/*   background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp'); */
   height: 600px;
   
   display: block;
@@ -14,7 +14,7 @@
 }
 
 .cca-rev {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp');
+/*   background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp'); */
   height: 300px;
   
   display: block;
