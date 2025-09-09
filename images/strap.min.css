@@ -3,7 +3,7 @@
 }
 
 .cca-ins {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
+  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp');
   height: 900px;
   
   display: block;
