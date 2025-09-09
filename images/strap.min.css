@@ -2,6 +2,10 @@
   display: none;
 }
 
+.cca-sec {
+  display: none;
+}
+
 .cca-ins {
   background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
   height: 900px;
@@ -31,6 +35,7 @@
   background-repeat: no-repeat;
   margin-top: 40px;
 }
+
 
 
 /* https://cpt-rgb.github.io/imgs/images/ins.webp */
