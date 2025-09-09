@@ -1,13 +1,13 @@
 .cca-instructions {
-  display: none;
-}
-
-.cca-sec {
 /*   display: none; */
 }
 
+.cca-sec {
+  display: none;
+}
+
 .cca-ins {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
+  
   height: 900px;
 
   background-color: transparent !important;
@@ -21,7 +21,7 @@
 }
 
 .cca-rev {
-  background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp') !important;
+  
   height: 300px;
 
   background-color: transparent !important;
@@ -36,5 +36,13 @@
 
 
 
-/* https://cpt-rgb.github.io/imgs/images/ins.webp */
-/* https://cpt-rgb.github.io/imgs/images/rev-1.webp */
+
+
+
+
+
+
+
+
+/* background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
+background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp') !important; */
