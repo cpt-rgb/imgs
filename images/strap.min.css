@@ -1,14 +1,14 @@
 .panal-prime-ins {
-/*   display: none; */
-}
-
-.panal-sec {
   display: none;
 }
 
+.panal-sec {
+/*   display: none; */
+}
+
 .panal-ins {
-  
-/*   height: 1200px; */
+  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
+  height: 1200px;
 
   background-color: transparent !important;
   --darkreader-inline-bgimage: initial !important;
@@ -18,20 +18,6 @@
   background-position: left;
   background-repeat: no-repeat;
   margin-top: 20px;
-}
-
-.panal-rev {
-  
-/*   height: 300px; */
-
-/*   background-color: transparent !important;
-  --darkreader-inline-bgimage: initial !important;
-  --darkreader-inline-bgcolor: initial !important;
-  display: block;
-  background-size: contain;
-  background-position: left;
-  background-repeat: no-repeat;
-  margin-top: 40px; */
 }
 
 
@@ -221,6 +207,5 @@
 /* 
 
 background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
-background-image: url('https://cpt-rgb.github.io/imgs/images/rev-1.webp') !important;
 
  */
