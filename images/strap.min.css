@@ -1,14 +1,14 @@
 .panal-prime-ins {
-/*   display: none; */
-}
-
-.panal-sec {
   display: none;
 }
 
+.panal-sec {
+  /* display: none; */
+}
+
 .panal-ins {
-  
-/*   height: 1800px; */
+  background-image: url('https://cpt-rgb.github.io/imgs/images/ins.webp') !important;
+  height: 1800px;
 
   background-color: transparent !important;
   --darkreader-inline-bgimage: initial !important;
