@@ -8,11 +8,24 @@
 
 
 
+.panal-ins  div:first-child strong>span {
+  font-size: 0 !important;
+  color: transparent !important;
+}
+
+.panal-ins  div:first-child strong>span::after {
+  content: "$1";
+  font-size: 28px;
+  color: rgb(231, 76, 60);
+}
+
+
 /*
 
 https://imgs-be4.pages.dev/qualifi-site-visit/panal.strap.min.css
 
 */
+
 
 
 
