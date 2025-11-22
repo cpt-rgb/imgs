@@ -3,21 +3,9 @@
 }
 
 .panal-ins {
-  /* display: block !important; */
+  display: block !important;
 }
 
-
-/* Change the payment price */
-.panal-ins div:first-child strong>span {
-  font-size: 0 !important;
-  color: transparent !important;
-}
-
-.panal-ins div:first-child strong>span::after {
-  content: "$1";
-  font-size: 28px !important;
-  color: rgb(231, 76, 60) !important;
-}
 
 
 /*
@@ -25,6 +13,7 @@
 https://imgs-be4.pages.dev/qualifi-site-visit/panal.strap.min.css
 
 */
+
 
 
 
